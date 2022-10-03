@@ -9,4 +9,5 @@ Steps for the installation:
 5. Open the browser and type in the address bar, http://localhost/Simple-ToDo-App-main/  
    to the access project.
 
-NOTE: After extracting zip file please move this folder "Simple-ToDo-App-main" single folder to the local directory.
+NOTE: If you change the folder name then do not forget change in the 'SITEURL' it is located in "Simple-ToDo-App-main/config/constants.php".
+      After extracting zip file please move this folder "Simple-ToDo-App-main" single folder to the local directory.
